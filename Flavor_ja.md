@@ -43,9 +43,9 @@
 
 ## フレーバー情報の取得（2026年4月時点）
 
-https://www.br31.jp/contents/flavor/ 内に <span class="flavorName"> </span> に記述されている。
+https://www.br31.jp/contents/flavor/ 内に `<span class="flavorName"> </span>` に記述されている。
 
-名前が長いフレーバは <br /> を含んでいることがある。
+名前が長いフレーバは `<br />` を含んでいることがある。
 
 ```
 $  curl -sL https://www.br31.jp/contents/flavor/ \
